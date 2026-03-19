@@ -6,7 +6,9 @@ This project presents a **data-driven analysis of Airbnb listings and guest revi
 
 It combines **exploratory data analysis (EDA)** with **natural language processing (NLP)** to uncover market trends and customer insights.
 
-**Designed to simulate real-world data analytics applications in urban planning and platform analysis.**
+**Inspired by real-world data analytics applications in urban planning and platform analysis.**
+
+**This project demonstrates how data analytics and NLP can be used to extract actionable insights from large-scale real-world datasets.**
 
 ---
 
@@ -30,6 +32,12 @@ http://insideairbnb.com/get-the-data/
 * ~600,000 reviews
 
 > Note: Datasets are not included in this repository due to size.
+
+---
+
+## 📈 Example Output
+
+The following visualisations highlight key trends and insights extracted from the dataset.
 
 ---
 
